@@ -66,4 +66,4 @@
 
 ## Demo video :
 
-https://drive.google.com/file/d/1aArkanXRe9NwLBedxKgZUvxaGDYY-s0m/view?usp=sharing
+https://www.youtube.com/watch?v=o2NWho_izV0
