@@ -46,7 +46,7 @@
 
 ## System Architecture:
 
-<img width="391" alt="image" src="https://user-images.githubusercontent.com/39195528/188303086-df613e2c-81e7-47a0-adc6-896801f2fc12.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/39195528/188303086-df613e2c-81e7-47a0-adc6-896801f2fc12.png">
 
 - Tools/Technologies used: Java, Android Studio ,PHP, Visual Studio Code, MySQL.
 
