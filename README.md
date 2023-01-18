@@ -1,4 +1,8 @@
-# SharePixel
+# Photo Editing and Sharing social network mobile application like Instagram | Final Year Project
+
+**App Name: SharePixel**
+
+
 
 ## Features:
 ### Users:
